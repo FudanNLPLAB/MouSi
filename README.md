@@ -3,7 +3,7 @@ The code is coming in one week ❗️
 
 
 
-# (msc/logo.png) MouSi: Poly-Visual-Expert Vision-Language Models
+# !(msc/logo.png) MouSi: Poly-Visual-Expert Vision-Language Models
 
 *Visual instruction tuning towards large language and vision models with GPT-4 level capabilities.*
 
