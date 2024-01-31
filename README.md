@@ -2,7 +2,7 @@
 The code is coming in one week ❗️
 
 <div align="center">
-  <img src="msc/logo.png" width="30%">
+  <img src="msc/logo.png" width="20%">
 </div>
 
 # MouSi: Poly-Visual-Expert Vision-Language Models
