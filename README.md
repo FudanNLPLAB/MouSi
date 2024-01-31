@@ -2,10 +2,10 @@
 The code is coming in one week ❗️
 
 <div align="center">
-  <img src="msc/logo.png" width="20%">
+  <img src="msc/main_graph.png" width="80%">
 </div>
 
-# <img src="msc/logo.png" width="2%">MouSi: Poly-Visual-Expert Vision-Language Models
+# <img src="msc/logo.png" width="5%">MouSi: Poly-Visual-Expert Vision-Language Models
 
 *Multimodal large language model with integration of multiple vision experts*
 
