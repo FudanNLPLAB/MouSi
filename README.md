@@ -1,5 +1,5 @@
 
-The code is coming in one week ❗️
+**The code is coming in one week ❗️**
 
 # <img src="msc/logo.png" width="5%">MouSi: Poly-Visual-Expert Vision-Language Models
 
