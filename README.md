@@ -7,12 +7,9 @@ The code is coming in one week ❗️
 
 # MouSi: Poly-Visual-Expert Vision-Language Models
 
-*Visual instruction tuning towards large language and vision models with GPT-4 level capabilities.*
+*Multimodal large language model with integration of multiple vision experts*
 
 [[Paper](https://arxiv.org/abs/2401.17221)] [[Demo](http://mousi.org)]
-<!--
-[[Data](https://github.com/haotian-liu/LLaVA/blob/main/docs/Data.md)] [[Model Zoo](https://github.com/haotian-liu/LLaVA/blob/main/docs/MODEL_ZOO.md)]
--->
 
 🤝Community Contributions: [[llama.cpp](https://github.com/ggerganov/llama.cpp/pull/3436)] [[Colab](https://github.com/camenduru/LLaVA-colab)] [[🤗Space](https://huggingface.co/spaces/badayvedat/LLaVA)] [[Replicate](https://replicate.com/yorickvp/llava-13b)] [[AutoGen](https://github.com/microsoft/autogen/blob/main/notebook/agentchat_lmm_llava.ipynb)]  [[BakLLaVA (LLaVA with Mistral-7B)](https://github.com/SkunkworksAI/BakLLaVA)]
 
