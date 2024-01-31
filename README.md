@@ -4,7 +4,7 @@ The code is coming in one week ❗️
 
 
 
-# 🌋 LLaVA: Large Language and Vision Assistant
+# 🌋 MouSi: Poly-Visual-Expert Vision-Language Models
 
 *Visual instruction tuning towards large language and vision models with GPT-4 level capabilities.*
 
