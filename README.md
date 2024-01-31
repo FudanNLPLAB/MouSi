@@ -10,7 +10,7 @@ The code is coming in one week ❗️
 *Visual instruction tuning towards large language and vision models with GPT-4 level capabilities.*
 
 [[Paper](https://arxiv.org/abs/2401.17221)] [[Demo](http://mousi.org)]
-<--!
+<!--
 [[Data](https://github.com/haotian-liu/LLaVA/blob/main/docs/Data.md)] [[Model Zoo](https://github.com/haotian-liu/LLaVA/blob/main/docs/MODEL_ZOO.md)]
 -->
 
