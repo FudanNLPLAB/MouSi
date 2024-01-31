@@ -1,4 +1,4 @@
 # MouSi
 
 
-The code is coming soon ❗️
+The code is coming in one week ❗️
