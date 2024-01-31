@@ -1,9 +1,11 @@
 
 The code is coming in one week ❗️
 
+<div align="center">
+  <img src="msc/logo.png" width="30%">
+</div>
 
-
-# <img src="msc/logo.png"> MouSi: Poly-Visual-Expert Vision-Language Models
+# MouSi: Poly-Visual-Expert Vision-Language Models
 
 *Visual instruction tuning towards large language and vision models with GPT-4 level capabilities.*
 
